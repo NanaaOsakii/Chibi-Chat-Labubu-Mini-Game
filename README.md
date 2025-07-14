@@ -2,7 +2,7 @@
 
 Two fun Python Pygame projects bundled together:
 
-- **Chibi Chat Game:** The main menu and chat interface where you can start the real chat with Chibi .
+- **Chibi Chat Game:** The main menu and chat interface where you can start the real time usi API with Chibi .
 - **Labubu Mini Game:** A cute Labubu-inspired platformer with movement, shooting, and a back button to return to the menu.
 
 ## Features
