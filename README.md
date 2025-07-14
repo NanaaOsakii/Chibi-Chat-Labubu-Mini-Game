@@ -34,10 +34,12 @@ Two fun Python Pygame projects bundled together:
 ---
 
 Enjoy playing and coding! 🎮🐭
+Enjoy the meme songs too hehe boii
 
 
 ---
 By Abenay Wafa
+![Alt text](https://github.com/NanaaOsakii/Chibi-Chat-Labubu-Mini-Game/blob/abd8b78dd70a41c7ec0955be381231a4c04d6607/haa.PNG)
 ![Alt text](https://github.com/NanaaOsakii/Chibi-Chat-Labubu-Mini-Game/blob/d382a6004c3ad4ddde5d4732e0e52a52108ec517/play.PNG)
 ![Alt text](https://github.com/NanaaOsakii/Chibi-Chat-Labubu-Mini-Game/blob/d382a6004c3ad4ddde5d4732e0e52a52108ec517/c.PNG)
 ![Alt text](https://github.com/NanaaOsakii/Chibi-Chat-Labubu-Mini-Game/blob/d382a6004c3ad4ddde5d4732e0e52a52108ec517/cd.PNG)
