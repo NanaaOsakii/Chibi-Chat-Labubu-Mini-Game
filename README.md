@@ -42,4 +42,5 @@ By Abenay Wafa
 ![Alt text](https://github.com/NanaaOsakii/Chibi-Chat-Labubu-Mini-Game/blob/abd8b78dd70a41c7ec0955be381231a4c04d6607/haa.PNG)
 ![Alt text](https://github.com/NanaaOsakii/Chibi-Chat-Labubu-Mini-Game/blob/d382a6004c3ad4ddde5d4732e0e52a52108ec517/play.PNG)
 ![Alt text](https://github.com/NanaaOsakii/Chibi-Chat-Labubu-Mini-Game/blob/d382a6004c3ad4ddde5d4732e0e52a52108ec517/c.PNG)
+![Alt text](https://github.com/NanaaOsakii/Chibi-Chat-Labubu-Mini-Game/blob/95ee159958242264bdd22b9269ab76e034fe523f/accoustic.PNG)
 ![Alt text](https://github.com/NanaaOsakii/Chibi-Chat-Labubu-Mini-Game/blob/d382a6004c3ad4ddde5d4732e0e52a52108ec517/cd.PNG)
